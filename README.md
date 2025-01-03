@@ -1,1 +1,1 @@
-https://github.com/MindFireGPSDevEleSearch/mindfireaisystems/commit/8f0e19ed038944247d41070175cb86254a198331# .github
+https://github.com/MindFireGPSDevEleSearch/mindfireaisystems/commit/8f0e19ed038944247d41070175cb86254a198331# .github/
